@@ -17,3 +17,12 @@ Using Netflix's dataset (from Kaggle), this analysis explores:
 **Pandas**
 **Matplotlib**
 **Google Colab**
+
+## Visualizations
+
+- Pie charts for rating distribution
+- Bar plots for country and genre counts
+- Scatter plots for year-wise trends
+- Horizontal bar charts for top directors
+- Duration comparison of Movies vs TV Shows
+
